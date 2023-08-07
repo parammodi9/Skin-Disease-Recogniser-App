@@ -4,7 +4,7 @@ Problem Definition : An Application Programming Interface which can be easily in
 
 Our college name: Pandit Deendayal Energy University(PDEU)
 
-Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
+Team Members: Dhairya Shah, Sarthak Pansuria, Param Modi, Naman Parmar.
 
 
 > **Problem Definition :**
