@@ -41,4 +41,9 @@ Dermatological issues are widespread worldwide and can be caused by fungal infec
 - JavaScript
 
 ## 📸 Project Photos
+![Image 1](https://github.com/parammodi9/Skin-Disease-Recogniser-App/blob/main/1.jpeg)
+![Image 2](https://github.com/parammodi9/Skin-Disease-Recogniser-App/blob/main/2.jpeg)
+![Image 3](https://github.com/parammodi9/Skin-Disease-Recogniser-App/blob/main/3.jpeg)
+![Image 4](https://github.com/parammodi9/Skin-Disease-Recogniser-App/blob/main/4.jpeg)
+![Image 5](https://github.com/parammodi9/Skin-Disease-Recogniser-App/blob/main/5.jpeg)
 
