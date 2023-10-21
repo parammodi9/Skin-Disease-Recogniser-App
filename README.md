@@ -24,9 +24,13 @@ Dermatological issues are widespread worldwide and can be caused by fungal infec
 7. Exported the trained model in TFLite format for deployment in the web application.
 
 **Web Application:**
-1. Used the TensorFlow Lite model in our web application.
-2. Added a feature to allow users to upload images for disease recognition.
-3. Integrated information on various skin diseases and their possible treatments.
+🚀 How to Use
+🌍 Visit the SPARSH web application.
+📎 Begin by uploading your skin image.
+🖊️ Use the Annotation Tool to highlight areas of concern on your image.
+📤 Now, upload both the original and annotated images together.
+🟢 Click on Submit.
+📊 View the output image displaying potential disease areas.
 
 ## 🖥️ Code Files
 - `image_segregation.py` - Segregates images into various categories from the HAM-10000 dataset.
