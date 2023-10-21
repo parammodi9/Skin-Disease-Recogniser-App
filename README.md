@@ -1,8 +1,5 @@
 # Skin-Disease-Recogniser-App 🩺
 
-![Build Status](https://github.com/parammodi9/Skin-Disease-Recogniser-App/workflows/Build/badge.svg)
-![Downloads](https://img.shields.io/github/downloads/parammodi9/Skin-Disease-Recogniser-App/total.svg)
-![Latest Release](https://img.shields.io/github/v/release/parammodi9/Skin-Disease-Recogniser-App.svg)
 
 The Skin Disease Recogniser is a web application designed to provide users with the ability to detect various skin diseases without the need for physical interaction with a dermatologist.
 
@@ -44,3 +41,4 @@ Dermatological issues are widespread worldwide and can be caused by fungal infec
 - JavaScript
 
 ## 📸 Project Photos
+
