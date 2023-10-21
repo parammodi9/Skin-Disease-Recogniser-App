@@ -24,13 +24,13 @@ Dermatological issues are widespread worldwide and can be caused by fungal infec
 7. Exported the trained model in TFLite format for deployment in the web application.
 
 **Web Application:**
-🚀 How to Use
-🌍 Visit the SPARSH web application.
-📎 Begin by uploading your skin image.
-🖊️ Use the Annotation Tool to highlight areas of concern on your image.
-📤 Now, upload both the original and annotated images together.
-🟢 Click on Submit.
-📊 View the output image displaying potential disease areas.
+ - 🚀 How to Use
+ - 🌍 Visit the SPARSH web application.
+ - 📎 Begin by uploading your skin image.
+ - 🖊️ Use the Annotation Tool to highlight areas of concern on your image.
+ - 📤 Now, upload both the original and annotated images together.
+ - 🟢 Click on Submit.
+ - 📊 View the output image displaying potential disease areas.
 
 ## 🖥️ Code Files
 - `image_segregation.py` - Segregates images into various categories from the HAM-10000 dataset.
