@@ -1,4 +1,4 @@
-# Skin-Diseases-Detection-Hackbash
+# Skin-Diseases-Detection-Web Application
 
 Problem Definition : An Application Programming Interface which can be easily integrated with Android to detect the skin disease without any physical interaction with a Dermatologist. 
 
